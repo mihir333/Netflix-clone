@@ -1,6 +1,6 @@
 Screenshots:-
 
-Sign-In Page-
+Sign-In/Sign-up Page-
 ![image](https://github.com/mihir333/netflix-clone/assets/68920654/896fd910-3658-47da-9ba3-26aa6e7bba53)
 ![image](https://github.com/mihir333/netflix-clone/assets/68920654/31091647-1c6b-4867-a219-264f5fc58a68)
 
